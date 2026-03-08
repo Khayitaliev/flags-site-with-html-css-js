@@ -42,7 +42,7 @@ header{
 
 .header-brand{
     color: var(---text-cl);
-    font-size: 1.3rem;
+    font-size: clamp(1.1rem,3vw.1.3rem);
     font-weight: 600;
 }
 
